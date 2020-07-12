@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Sarvad, and currently pursuing BTech Conputer Science in VIT, Vellore 🏢. 
-I'm an iOS developer 👨🏾‍💻 and make apps solving problems that i general face. 📫 You can reach out to me through  &nbsp; [Twitter](https://twitter.com/serverConnectd) and check out some of my work 📱  from the &nbsp;[App Store](https://apps.apple.com/us/developer/sarvad-shetty/id1440299240). 
+I'm an iOS developer 👨🏾‍💻 and make apps solving problems that i generally face. 📫 You can reach out to me through  &nbsp; [Twitter](https://twitter.com/serverConnectd) and check out some of my work 📱  from the &nbsp;[App Store](https://apps.apple.com/us/developer/sarvad-shetty/id1440299240). 
 ⚡ Fun fact: Started iOS dev using a VM in a windows laptop. 
