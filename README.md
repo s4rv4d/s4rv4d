@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Sarvad, and currently pursuing BTech Computer Science in VIT, Vellore 🏢. 
-I'm an iOS developer 👨🏾‍💻 and love making apps solving problems that i generally face. 📫 You can reach out to me through  &nbsp;[Twitter](https://twitter.com/serverConnectd) and check out some of my work 📱  from the &nbsp;[App Store](https://apps.apple.com/us/developer/sarvad-shetty/id1440299240). 
+I am Sarvad, and currently working as an iOS dev at Juno Finance. 
+I love making apps solving problems that i generally face. 📫 You can reach out to me through  &nbsp;[Twitter](https://twitter.com/serverConnectd) and check out some of my work 📱  from the &nbsp;[App Store](https://apps.apple.com/us/developer/sarvad-shetty/id1440299240). 
 ⚡ Fun fact: Started iOS dev using a VM in a windows laptop. 
